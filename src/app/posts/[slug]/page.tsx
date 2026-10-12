@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
 
 interface Props {
@@ -81,7 +82,7 @@ export default async function PostPage({ params }: Props) {
       {/* 記事本文 */}
       <div className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-12 shadow-sm">
         <div className="prose prose-slate max-w-none prose-headings:font-bold prose-headings:text-slate-900 prose-h2:text-2xl prose-h2:border-b prose-h2:border-slate-200 prose-h2:pb-3 prose-h2:mt-10 prose-h3:text-xl prose-h3:mt-8 prose-p:leading-relaxed prose-p:text-slate-700 prose-li:text-slate-700 prose-strong:text-slate-900 prose-strong:font-bold prose-table:my-6 prose-th:bg-slate-100 prose-th:p-3 prose-td:p-3 prose-th:border prose-th:border-slate-200 prose-td:border prose-td:border-slate-200">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>{post.content}</ReactMarkdown>
         </div>
       </div>
 
