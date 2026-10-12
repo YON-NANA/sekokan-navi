@@ -64,11 +64,11 @@ isPublished: true
 
 * **経験記述の作成に時間を割けない・文章が苦手な方**  
   忙しい現場監督向けに、論文の添削や記述案の作成支援を専門に行っている通信指導機関を活用することで、大幅に勉強時間を短縮できます。  
-  👉 <a href="https://px.a8.net/svt/ejp?a8mat=4BEESZ+A7XYY2+4ASS+64RJ6" rel="nofollow" class="text-emerald-600 font-bold underline hover:text-emerald-700">施工管理技士の経験記述・論文対策なら【独学サポート事務局】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BEESZ+A7XYY2+4ASS+64RJ6" alt="">
+  👉 <a href="https://px.a8.net/svt/ejp?a8mat=4BEFL1+4M3ZBU+4ASS+64RJ6" rel="nofollow" class="text-emerald-600 font-bold underline hover:text-emerald-700">施工管理技士の経験記述・論文対策なら【独学サポート事務局】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEFL1+4M3ZBU+4ASS+64RJ6" alt="">
 
 * **第一次検定から体系的に合格カリキュラムを学びたい方**  
   国家資格の受験指導に特化したスクールで、短期間でのポイントを押さえた講座を受講するのもおすすめです。  
-  👉 <a href="https://px.a8.net/svt/ejp?a8mat=4BEESZ+9W1AUI+5TS8+5YJRM" rel="nofollow" class="text-emerald-600 font-bold underline hover:text-emerald-700">資格合格支援スクール【能セン】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BEESZ+9W1AUI+5TS8+5YJRM" alt="">
+  👉 <a href="https://px.a8.net/svt/ejp?a8mat=4BEFL1+4NWA56+5TS8+5YJRM" rel="nofollow" class="text-emerald-600 font-bold underline hover:text-emerald-700">資格合格支援スクール【能セン】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BEFL1+4NWA56+5TS8+5YJRM" alt="">
 
 自腹で数十万円の大手予備校に通うのが難しい場合でも、こうしたピンポイントの専門講座を利用することで、仕事を続けながら現実的に合格ラインへ到達できます。
 
